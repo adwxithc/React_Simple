@@ -1,0 +1,15 @@
+.app-header{
+    padding: 15px;
+    background-color: blue;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+.brand{
+    margin: 0 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.option{
+    margin: 0 40px;
+    font-size: 17px;
+}

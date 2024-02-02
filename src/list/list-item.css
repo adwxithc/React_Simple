@@ -1,0 +1,33 @@
+.list-head{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list_title{
+    font-size: 25px;
+    font-weight: 600;
+   
+}
+.delete{
+    color: blue;
+    font-size: 15px;
+    cursor: pointer;
+}
+.list-item{
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.355);
+    margin: 10px;
+    border-radius: 3px;
+    
+}
+.options{
+    color: white;
+    border-radius: 3px;
+    padding: 3px 5px;
+    margin: 5px;
+}
+.list-description{
+    color: rgba(0, 0, 0, 0.499);
+    font-weight: 600;
+    
+}
